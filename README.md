@@ -1,4 +1,4 @@
-# Diseño Mecatrónico
+﻿# Diseño Mecatrónico
 * Crear un repositorio
 * Clonar un repositorio
 * Merge a remoto
@@ -9,3 +9,5 @@
 * Nombre: Raymundo Pérez
 * Edad: 27 años
 * Telefono: 5518409151
+* Ciudad: Coyoacán
+* Colonia: Santo Domingo
