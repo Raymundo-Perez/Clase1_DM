@@ -9,3 +9,5 @@
 * Nombre: Raymundo Pérez
 * Edad: 27 años
 * Telefono: 5518409151
+* Ciudad: Coyoacan
+* Colonia: Santo Domingo
