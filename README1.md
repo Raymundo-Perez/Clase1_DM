@@ -5,3 +5,7 @@
 * Merge a branch
 * Pull request
 
+# Información de Contacto
+* Nombre:
+* Edad: 
+* Telefono:
