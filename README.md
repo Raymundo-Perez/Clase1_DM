@@ -6,6 +6,6 @@
 * Pull request
 
 # Información de Contacto
-* Nombre:
-* Edad: 
-* Telefono:
+* Nombre: Raymundo Pérez
+* Edad: 27 años
+* Telefono: 5518409151
