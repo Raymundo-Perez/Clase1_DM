@@ -1,4 +1,4 @@
-# Diseño Mecatrónico
+﻿# Diseño Mecatrónico
 * Crear un repositorio
 * Clonar un repositorio
 * Merge a remoto
@@ -6,8 +6,10 @@
 * Pull request
 
 # Información de Contacto
-* Nombre: Raymundo Pérez
+
+* Nombre: Raymundo Pérez Flores
 * Edad: 27 años
 * Telefono: 5518409151
-* Ciudad: Coyoacan
-* Colonia: Santo Domingo
+* Ciudad: Tlaxcala
+* Colonia: Quilehtla
+* sdsdsdsdsd
