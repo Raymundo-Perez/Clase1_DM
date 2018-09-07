@@ -1,1 +1,11 @@
-# Clase1_DM
+# Diseño Mecatrónico
+* Crear un repositorio
+* Clonar un repositorio
+* Merge a remoto
+* Merge a branch
+* Pull request
+
+# Información de Contacto
+* Nombre:
+* Edad: 
+* Telefono:
